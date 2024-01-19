@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabbyX1
-- 👀 I’m interested in building applications and 2D,3D games for beginners
-- 🌱 I’m currently learning Python, Django, Git, Unity engine, VS
-- 💞️ I’m looking to collaborate on Python projects to practice my skills.
+- 👀 I’m interested in building applications 
+- 🌱 I’m currently learning Python, Django, front-end, SQL
+- 💞️ I’m looking to 
 - 📫 How to reach me: gabrijelamikelic2@gmail.com Discord:https://discord.gg/7qRrdzCj32
 
 <!---
